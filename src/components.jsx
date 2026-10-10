@@ -1,3 +1,5 @@
+/* eslint-disable react-refresh/only-export-components */
+
 import { NavLink, Link } from 'react-router-dom'
 import { Home, Clock, ChartLine } from 'lucide-react'
 export const statusStyle = {
