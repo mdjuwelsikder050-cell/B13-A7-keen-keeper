@@ -1,0 +1,181 @@
+[
+ {
+  "id": 1,
+  "name": "Sarah Mitchell",
+  "picture": "/people/2.jpg",
+  "email": "sarah.mitchell@gmail.com",
+  "days_since_contact": 21,
+  "status": "overdue",
+  "tags": [
+   "college",
+   "close friend"
+  ],
+  "bio": "Roommates for three years at Edinburgh. Always up for a late-night call about books and bad TV.",
+  "goal": 14,
+  "next_due_date": "2026-09-30"
+ },
+ {
+  "id": 2,
+  "name": "Daniel Okafor",
+  "picture": "/people/3.jpg",
+  "email": "daniel.okafor@gmail.com",
+  "days_since_contact": 12,
+  "status": "almost due",
+  "tags": [
+   "work",
+   "mentor"
+  ],
+  "bio": "Former team lead who taught me how to run a good retro. We swap podcast recommendations monthly.",
+  "goal": 14,
+  "next_due_date": "2026-10-09"
+ },
+ {
+  "id": 3,
+  "name": "Lucas Ferreira",
+  "picture": "/people/4.jpg",
+  "email": "lucas.ferreira@gmail.com",
+  "days_since_contact": 30,
+  "status": "overdue",
+  "tags": [
+   "hiking",
+   "school"
+  ],
+  "bio": "Childhood friend from Porto. Weekend hikes and terrible puns are our thing.",
+  "goal": 21,
+  "next_due_date": "2026-09-28"
+ },
+ {
+  "id": 4,
+  "name": "Marcus Reyes",
+  "picture": "/people/5.jpg",
+  "email": "marcus.reyes@gmail.com",
+  "days_since_contact": 6,
+  "status": "on-track",
+  "tags": [
+   "gym",
+   "neighbor"
+  ],
+  "bio": "Spotted me at the squat rack on day one. Now we trade meal-prep recipes every Sunday.",
+  "goal": 14,
+  "next_due_date": "2026-10-15"
+ },
+ {
+  "id": 5,
+  "name": "Mia Chen",
+  "picture": "/people/6.jpg",
+  "email": "mia.chen@gmail.com",
+  "days_since_contact": 9,
+  "status": "on-track",
+  "tags": [
+   "college",
+   "design"
+  ],
+  "bio": "Studio partner in art school. Sends me sketches whenever she's stuck on a project.",
+  "goal": 14,
+  "next_due_date": "2026-10-12"
+ },
+ {
+  "id": 6,
+  "name": "Chloe Bennett",
+  "picture": "/people/7.jpg",
+  "email": "chloe.bennett@gmail.com",
+  "days_since_contact": 25,
+  "status": "almost due",
+  "tags": [
+   "work",
+   "photography"
+  ],
+  "bio": "Freelance photographer I met on a campaign shoot. We plan a photo walk every season.",
+  "goal": 30,
+  "next_due_date": "2026-10-12"
+ },
+ {
+  "id": 7,
+  "name": "Omar Haddad",
+  "picture": "/people/8.jpg",
+  "email": "omar.haddad@gmail.com",
+  "days_since_contact": 26,
+  "status": "almost due",
+  "tags": [
+   "family friend",
+   "football"
+  ],
+  "bio": "My dad's old colleague's son. We catch every derby together when schedules allow.",
+  "goal": 30,
+  "next_due_date": "2026-10-11"
+ },
+ {
+  "id": 8,
+  "name": "Priya Nair",
+  "picture": "/people/9.jpg",
+  "email": "priya.nair@gmail.com",
+  "days_since_contact": 5,
+  "status": "on-track",
+  "tags": [
+   "close friend",
+   "travel"
+  ],
+  "bio": "Met backpacking in Vietnam. We plan a trip together every spring.",
+  "goal": 14,
+  "next_due_date": "2026-10-16"
+ },
+ {
+  "id": 9,
+  "name": "Theo Lambert",
+  "picture": "/people/10.jpg",
+  "email": "theo.lambert@gmail.com",
+  "days_since_contact": 35,
+  "status": "overdue",
+  "tags": [
+   "music",
+   "school"
+  ],
+  "bio": "Played bass in my first band. Still the one who knows every song I've ever loved.",
+  "goal": 30,
+  "next_due_date": "2026-10-02"
+ },
+ {
+  "id": 10,
+  "name": "Emma Johansson",
+  "picture": "/people/11.jpg",
+  "email": "emma.johansson@gmail.com",
+  "days_since_contact": 3,
+  "status": "on-track",
+  "tags": [
+   "neighbor"
+  ],
+  "bio": "Lives two doors down. Shares sourdough starter and plant cuttings.",
+  "goal": 30,
+  "next_due_date": "2026-11-03"
+ },
+ {
+  "id": 11,
+  "name": "Ethan Brooks",
+  "picture": "/people/12.jpg",
+  "email": "ethan.brooks@gmail.com",
+  "days_since_contact": 40,
+  "status": "overdue",
+  "tags": [
+   "work",
+   "climbing"
+  ],
+  "bio": "Climbing buddy from my last job. He moved cities, so we mostly catch up by video.",
+  "goal": 30,
+  "next_due_date": "2026-09-27"
+ },
+ {
+  "id": 12,
+  "name": "Hannah Walsh",
+  "picture": "/people/13.jpg",
+  "email": "hannah.walsh@gmail.com",
+  "days_since_contact": 10,
+  "status": "on-track",
+  "tags": [
+   "college",
+   "book club"
+  ],
+  "bio": "Runs our monthly book club. Honest about every book and every haircut.",
+  "goal": 21,
+  "next_due_date": "2026-10-18"
+ }
+]
